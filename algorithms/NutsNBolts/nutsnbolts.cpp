@@ -1,5 +1,5 @@
 //
-// Copyright (c) 2018 Tuan Q. Vu. All rights reserved.
+// Copyright (c) 2018 Tuan Q. Vu (tuan.vu58@yahoo.com). All rights reserved.
 // Licensed under the MIT license. See LICENSE file in project root for details.
 //
 // Full problem description available at:
